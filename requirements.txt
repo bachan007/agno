@@ -1,0 +1,5 @@
+agno==1.1.4
+anthropic==0.46.0
+azure-ai-inference==1.0.0b9
+databricks-sql-connector==4.0.0
+openai==1.64.0
